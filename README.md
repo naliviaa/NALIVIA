@@ -1,7 +1,7 @@
 ### Olá, Eu sou  a Analívia  👋😘
  
  
- - 💻Tecnologias: HTML/JAVASCRIPT/CSS/JAVA/MySQL/POWER BI/POSTGRESS SQL/REACT//UX.
+ - 💻Tecnologias: HTML/JAVASCRIPT/CSS/JAVA/MySQL/POWER BI/POSTGRESS SQL/REACT/UX/UI/FIGMA
 
 
  
